@@ -1,6 +1,6 @@
 Created by:
 Student name: Yeuda Baza
-ID: 208029819
+
 1. How to run Pacman Game
 - Requirements
 Please make sure you have installed Java on your machine.
